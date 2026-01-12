@@ -264,35 +264,7 @@ Through systematic cleaning, structured analysis, and clear visualization, manag
 * Plan promotions strategically
 * Make data-driven decisions
 
-This workflow reflects real-world **Data Analyst** practices.
 
----
-
-## 📁 Repository Structure
-
-```
-D-LITE-Sales-Analysis/
-│
-├── data/
-│   └── Sales_Details_Cleaned.xlsx
-│
-├── excel/
-│   └── D_LITE_Excel_Analysis.xlsx
-│
-├── powerbi/
-│   └── D_LITE_Sales.pbix
-│
-├── screenshots/
-│   ├── excel_cleaning.png
-│   ├── excel_pivots.png
-│   ├── excel_dashboard.png
-│   ├── powerbi_model.png
-│   └── powerbi_dashboard.png
-│
-└── README.md
-```
-
----
 
 
 
