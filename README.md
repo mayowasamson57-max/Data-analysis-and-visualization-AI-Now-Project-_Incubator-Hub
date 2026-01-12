@@ -119,6 +119,7 @@ The dataset contains the following key fields:
 > 📸 **Screenshot Placeholder – Pivot Tables**
 > `![Excel Pivot Tables](screenshots/excel_pivots.png)`
 
+
 ---
 
 ## 📊 Visualization in Excel
@@ -137,6 +138,7 @@ All charts were arranged on a **Dashboard Sheet**.
 
 > 📸 **Screenshot Placeholder – Excel Dashboard**
 > `![Excel Dashboard](screenshots/excel_dashboard.png)`
+
 
 ---
 
