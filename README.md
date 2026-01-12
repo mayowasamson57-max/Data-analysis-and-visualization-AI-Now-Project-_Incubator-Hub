@@ -1,8 +1,10 @@
 
-# 📊 D LITE Electronics Sales Analysis In Microsoft Excel.
+# 📊 D LITE Electronics Sales Analysis
+*Excel & Power BI Project Report*
 
 
 **Author:** Mayowa Samson Popoola
+
 **Date:** January 2026  
 **Tools:** Microsoft Excel, Power BI  
 **Dataset:** `Sales_Details.xlsx`
@@ -232,13 +234,8 @@ D-LITE-Sales-Analysis/
 
 ---
 
-> 📌 *This project showcases end-to-end data analysis skills: cleaning, analysis, visualization, and business storytelling.*
 
-```
 
-You can copy this entire content and save it as `README.md` in your GitHub repository.  
-As you work in Excel and Power BI, replace each screenshot placeholder with your real images.
-```
 
 
 
