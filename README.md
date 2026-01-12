@@ -59,16 +59,17 @@ The dataset contains the following key fields:
 
 1. Converted dataset into a **Table**  
 2. Standardized text using:
-   ```excel
+   excel
    =PROPER()
    =TRIM()
-````
+   
 
 3. Fixed invalid Sales values:
 
-   ```excel
+   excel
    =IF(ISNUMBER([@Sales]),[@Sales],[@Price]*[@[Order Qty]])
-   ```
+
+   
 4. Removed duplicates:
    `Data → Remove Duplicates`
 5. Ensured correct data types:
@@ -79,6 +80,7 @@ The dataset contains the following key fields:
 
 > 📸 **Screenshot Placeholder – Raw vs Cleaned Data**
 > `![Raw vs Cleaned Data](screenshots/excel_cleaning.png)`
+
 
 ---
 
@@ -172,6 +174,7 @@ All charts were arranged on a **Dashboard Sheet**.
 
 > 📸 **Screenshot Placeholder – Power BI Dashboard**
 > `![Power BI Dashboard](screenshots/powerbi_dashboard.png)`
+
 
 ---
 
