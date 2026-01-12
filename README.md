@@ -1,2 +1,2 @@
-# Data-analysis-and-visualization-AI-Now-Project-_Incubator-Hub
-Data analysis project
+# Data-analysis-and-visualization project:Power BI 
+## D Lite Electronics Ltd
