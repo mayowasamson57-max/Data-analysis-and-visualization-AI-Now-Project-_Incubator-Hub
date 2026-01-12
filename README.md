@@ -180,9 +180,40 @@ All charts were arranged on a **Dashboard Sheet**.
 
 ## 🔍 Key Insights
 
+Computers lead in sales, followed by Cameras and camcorders and TV and Video
+The distribution of sales across different product categories shows that Computers have the highest sales, followed by Cameras and camcorders, and TV and Video. Here are the key metrics:
+Total Sales: $56,254,053.53
+Number of Product Categories: 6
+Highest Sales Category: Computers with $21,629,438.98
+Lowest Sales Category: Audio
+
+The top three categories by sales are:
+Computers: $21,629,438.98
+Cameras and camcorders: $17,330,823.95
+TV and Video: $9,257,732.55.
+
+Key Insights from Sales by Product Category
+
+The chart reveals the distribution of total sales across various product categories, highlighting which areas are driving revenue and which may need attention.
+Top Performers
+Computers lead with 21,629,438.98 units sold, indicating strong demand and possibly high customer satisfaction in this segment.
+Cameras and camcorders follow closely with 17,330,823.95 units, suggesting a robust market for photography equipment.
+
+Moderate Performers
+TV and Video show solid sales with 9,257,732.55 units, reflecting consistent consumer interest in home entertainment systems.
+Cell phones have 5,918,974.28 units sold, which, while lower than the top two categories, still represents a significant revenue stream.
+
+Underperformers
+Music, Movies and Audio Books with 1,072,826.4 units and Audio with 1,044,257.37 units are the lowest performers. This may indicate either market saturation, lack of innovative products, or stiff competition.
+
+Business Implications
+Focus marketing and promotional efforts on Computers and Cameras and camcorders to capitalize on their high sales.
+Analyze the underperformance in Music, Movies and Audio Books and Audio to identify potential market gaps or opportunities for product innovation.
+Consider bundling or cross-selling strategies between high and low performers to boost overall sales.
+
 * **Top Performing Zone:** South East
 * **Lowest Performing Zone:** North Central
-* **Best Product Category:** Cameras and Camcorders
+* **Best Product Category:** Computers and Camcorders
 * **Top Product:** Digital SLR Cameras
 * **Peak Sales Months:** March & December
 * **Most Effective Promotions:** Revenue, 85
@@ -192,7 +223,7 @@ All charts were arranged on a **Dashboard Sheet**.
 ## 💡 Recommendations
 
 1. Increase marketing investment in **high-performing zones**.
-2. Stock more **top-performing products** (Digital SLR Cameras).
+2. Stock more **top-performing products** (Computers).
 3. Replicate successful promotions in low-performing regions.
 4. Plan inventory around **peak months**.
 5. Maintain a **data quality process** for future sales records.
