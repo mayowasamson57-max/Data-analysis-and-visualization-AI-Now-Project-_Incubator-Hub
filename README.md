@@ -119,7 +119,8 @@ The dataset contains the following key fields:
    * Values: Sum of Sales
 
 > 📸 **Screenshot Placeholder – Pivot Tables**
-> `![Excel Pivot Tables](screenshots/excel_pivots.png)`
+> ![Screenshot AI Now Excel Project _Pivot 1](https://github.com/user-attachments/assets/08edf653-60cc-4bc2-ab76-2cc6c05b8eef)
+`![Excel Pivot Tables](screenshots/excel_pivots.png)`
 
 
 ---
