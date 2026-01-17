@@ -18,7 +18,7 @@ This project focuses on:
 
 - Cleaning messy and inconsistent data  
 - Analyzing sales performance by Zones, product category,channel, and promotion  
-- Visualizing insights using **Excel**  and **Power BI 
+- Visualizing insights using **Excel**  and **Power BI**
 - Producing management-ready insights for decision-making  
 
 The goal is to transform raw data into **actionable business intelligence**.
