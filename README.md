@@ -149,7 +149,7 @@ The dataset contains the following key fields:
 
    ![Screenshot AI Now power bi project data modelling](https://github.com/user-attachments/assets/10fd6279-cb94-4165-bb75-04df51a48f45)
 
-   ```
+   
 4. Built interactive visuals:
 
    
