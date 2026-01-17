@@ -168,17 +168,6 @@ board]
 
 ## 🔍 Key Insights
 
-Computers lead in sales, followed by Cameras and camcorders and TV and Video
-The distribution of sales across different product categories shows that Computers have the highest sales, followed by Cameras and camcorders, and TV and Video. Here are the key metrics:
-Total Sales: $56,254,053.53
-Number of Product Categories: 6
-Highest Sales Category: Computers with $21,629,438.98
-Lowest Sales Category: Audio
-
-### The top three categories by sales are:
-Computers: $21,629,438.98
-Cameras and camcorders: $17,330,823.95
-TV and Video: $9,257,732.55.
 
 ### Key Insights from Sales by Product Category
 
