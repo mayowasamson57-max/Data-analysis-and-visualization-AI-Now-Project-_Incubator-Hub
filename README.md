@@ -179,7 +179,7 @@ The 'Adventist Promotion' and 'Winners Promotion' show notable sales in 'Cameras
 ### Key trends by channel, product, category, and zone across quarters
 Summary Insight: - The 'Store' channel leads in sales with 32,189,608.4 currency units, followed by the top-selling product, the 'Kekule Projector 1080p X980 Black', with sales of 452,115.0 currency units. The South East zone shows the highest sales at 15,655,458.1 currency units.
 Supporting Metrics: - Total sales across all channels, products, categories, and zones amount to 56,254,053.53 currency units. - There are 10 unique channels, 1643 unique products, 6 unique categories, and 7 unique zones.
-Visuals:
+
 
 
 ---
@@ -212,4 +212,4 @@ Through systematic cleaning, structured analysis, and clear visualization, manag
 
 
 
-#
+
