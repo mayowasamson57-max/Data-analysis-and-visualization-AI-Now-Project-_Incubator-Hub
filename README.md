@@ -126,10 +126,14 @@ Dataset was provided by our facilitator and it contains the following key fields
 1. Imported the cleaned Excel file
 2. Opened **Power Query Editor**:
 
-   * Trimmed text columns
+   ![Screenshot AI Now_ Power BI project _ETL 1](https://github.com/user-attachments/assets/b2ee76c4-cc2e-4c05-9aa4-87b0c307780b)
+
+   ![Screenshot AI Now_Power BI project _ETL 2](https://github.com/user-attachments/assets/e47b5aa3-79c3-41f9-a1d0-146ca1f06d68)
+
+   *Trimmed text columns
    * Standardized Zone and Product fields
    * Ensured Sales column is numeric
-3. Created Measures using DAX:
+4. Created Measures using DAX:
 
    ```DAX
    Total Sales = SUM(Sales_Details[Sales])
@@ -139,20 +143,20 @@ Dataset was provided by our facilitator and it contains the following key fields
 
 ![Screenshot AI Now Power BI Measure Table](https://github.com/user-attachments/assets/87d09226-170f-466c-8aac-1869d44828f5)
 
-   ![Screenshot AI Now power bi project data modelling](https://github.com/user-attachments/assets/10fd6279-cb94-4165-bb75-04df51a48f45)
+![Screenshot AI Now power bi project data modelling](https://github.com/user-attachments/assets/10fd6279-cb94-4165-bb75-04df51a48f45)
 
    
 4. Built interactive visuals:
 
    
 
-> ![Screenshot AI NOW CARDS 1](https://github.com/user-attachments/assets/1033edd0-2e88-4fd9-9f88-28400f4b1711)
-> 
+ ![Screenshot AI NOW CARDS 1](https://github.com/user-attachments/assets/1033edd0-2e88-4fd9-9f88-28400f4b1711)
+
 ![Screenshot AI Now Power BI Measure Table](https://github.com/user-attachments/assets/03d0a2a7-089b-4edc-84a6-732350996e4a)
 
 
 
-> `![Power BI Dash![Screenshot AI Now analytical visuals 1](https://github.com/user-attachments/assets/89ff44ce-c80e-4a5c-aac3-2c12f6f142ce)
+![Power BI Dash![Screenshot AI Now analytical visuals 1](https://github.com/user-attachments/assets/89ff44ce-c80e-4a5c-aac3-2c12f6f142ce)
 board]
 
 ![Screenshot AI Now analytical 2](https://github.com/user-attachments/assets/43d11b19-70a5-466d-84cd-d4f534082572)
