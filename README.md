@@ -61,9 +61,6 @@ Dataset was provided by our facilitator and it contains the following key fields
    `Data → Remove Duplicates`
 4. Ensured correct data types:
 
-   * Dates → Date format
-   * Sales → Currency
-   * Quantities → Number
 
 
 > `![Screenshot AI Now Excel  Project _ETL 1](https://github.com/user-attachments/assets/37c781d5-2c38-4a49-ba09-9d8166c47aee)
@@ -86,22 +83,7 @@ Dataset was provided by our facilitator and it contains the following key fields
    * Rows: Product Category
    * Values: Sum of Sales
 
-3. **Top Products by Revenue**
-
-   * Rows: Product Name
-   * Values: Sum of Sales
-
-4. **Monthly Sales Trend**
-
-   * Added column:
-
-     ```excel
-     =TEXT([@Order Date],"MMMM")
-     ```
-   * Rows: Month
-   * Values: Sum of Sales
-
-5. **Promotion Effectiveness**
+3. **Promotion Effectiveness**
 
    * Rows: Promotion Name
    * Values: Sum of Sale
