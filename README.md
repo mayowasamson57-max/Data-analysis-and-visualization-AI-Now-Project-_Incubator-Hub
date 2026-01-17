@@ -1,5 +1,5 @@
 
-# 📊 AI NOW PROJECT:Sales Data Analysis
+# 📊 AI NOW PROJECT:Sales Data Analysis & Visualization
 *Excel & Power BI Project Report*
 
 
@@ -12,8 +12,7 @@
 ---
 
 ## 📌 Project Overview
-
-D LITE Electronics operates across major regions in Nigeria. However, the company’s sales data is inconsistent and contains errors.  
+  
 This project focuses on:
 
 - Cleaning messy and inconsistent data  
