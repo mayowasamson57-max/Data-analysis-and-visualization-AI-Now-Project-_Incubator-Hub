@@ -1,5 +1,5 @@
 
-# 📊 D LITE Electronics Sales Analysis
+# 📊 AI NOW PROJECT:Sales Data Analysis
 *Excel & Power BI Project Report*
 
 
