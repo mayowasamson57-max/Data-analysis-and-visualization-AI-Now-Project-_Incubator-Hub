@@ -47,11 +47,6 @@ Dataset was provided by our facilitator and it contains the following key fields
 
 ## 🧹 Data Cleaning in Excel and Power BI
 
-### Issues Identified
-- Sales column contained text and errors  
-- Inconsistent naming (e.g., `north`, `NORTH`, `North`)  
-- Extra spaces and mixed formatting  
-- Duplicate rows  
 
 ### Cleaning Steps in Excel
 
@@ -72,6 +67,7 @@ Dataset was provided by our facilitator and it contains the following key fields
 
 
 > `![Screenshot AI Now Excel  Project _ETL 1](https://github.com/user-attachments/assets/37c781d5-2c38-4a49-ba09-9d8166c47aee)
+> 
 
 
 ---
@@ -111,7 +107,9 @@ Dataset was provided by our facilitator and it contains the following key fields
    * Values: Sum of Sale
      
 > ![Screenshot AI Now Excel Project _Pivot 1](https://github.com/user-attachments/assets/08edf653-60cc-4bc2-ab76-2cc6c05b8eef)
-`
+> 
+`![Screenshot pivot table 2](https://github.com/user-attachments/assets/eeb3365f-9cfe-4266-8967-9f0fe16102a8)
+
 
 
 
