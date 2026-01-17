@@ -79,7 +79,8 @@ The dataset contains the following key fields:
    * Quantities → Number
 
 > 📸 **Screenshot Placeholder – Raw vs Cleaned Data**
-> `![Raw vs Cleaned Data](screenshots/excel_cleaning.png)`
+> `![Screenshot AI Now Excel  Project _ETL 1](https://github.com/user-attachments/assets/37c781d5-2c38-4a49-ba09-9d8166c47aee)
+ned Data])`
 
 
 ---
