@@ -78,7 +78,7 @@ The dataset contains the following key fields:
    * Sales → Currency
    * Quantities → Number
 
-> 📸 **Screenshot Placeholder – Raw vs Cleaned Data**
+
 > `![Screenshot AI Now Excel  Project _ETL 1](https://github.com/user-attachments/assets/37c781d5-2c38-4a49-ba09-9d8166c47aee)
 
 
@@ -116,38 +116,20 @@ The dataset contains the following key fields:
 5. **Promotion Effectiveness**
 
    * Rows: Promotion Name
-   * Values: Sum of Sales
-
-> 📸 **Screenshot Placeholder – Pivot Tables**
+   * Values: Sum of Sale
+     
 > ![Screenshot AI Now Excel Project _Pivot 1](https://github.com/user-attachments/assets/08edf653-60cc-4bc2-ab76-2cc6c05b8eef)
-`![Excel Pivot Tables](screenshots/excel_pivots.png)`
+`
 
 
----
 
-## 📊 Visualization in Excel
-
-Charts created from PivotTables:
-
-| Analysis               | Chart Type   |
-| ---------------------- | ------------ |
-| Sales by Zone          | Column Chart |
-| Product Category Share | Pie Chart    |
-| Monthly Trend          | Line Chart   |
-| Top Products           | Column Chart |
-| Promotion Performance  | Bar Chart    |
-
-All charts were arranged on a **Dashboard Sheet**.
-
-> 📸 **Screenshot Placeholder – Excel Dashboard**
-> `![Excel Dashboard](screenshots/excel_dashboard.png)`
 
 
 ---
 
-## 📊 Power BI Implementation
 
-### Steps in Power BI
+
+## Steps in Power BI
 
 1. Imported the cleaned Excel file
 2. Opened **Power Query Editor**:
@@ -194,26 +176,26 @@ Number of Product Categories: 6
 Highest Sales Category: Computers with $21,629,438.98
 Lowest Sales Category: Audio
 
-The top three categories by sales are:
+### The top three categories by sales are:
 Computers: $21,629,438.98
 Cameras and camcorders: $17,330,823.95
 TV and Video: $9,257,732.55.
 
-Key Insights from Sales by Product Category
+### Key Insights from Sales by Product Category
 
 The chart reveals the distribution of total sales across various product categories, highlighting which areas are driving revenue and which may need attention.
 Top Performers
 Computers lead with 21,629,438.98 units sold, indicating strong demand and possibly high customer satisfaction in this segment.
 Cameras and camcorders follow closely with 17,330,823.95 units, suggesting a robust market for photography equipment.
 
-Moderate Performers
+### Moderate Performers
 TV and Video show solid sales with 9,257,732.55 units, reflecting consistent consumer interest in home entertainment systems.
 Cell phones have 5,918,974.28 units sold, which, while lower than the top two categories, still represents a significant revenue stream.
 
-Underperformers
+### Underperformers
 Music, Movies and Audio Books with 1,072,826.4 units and Audio with 1,044,257.37 units are the lowest performers. This may indicate either market saturation, lack of innovative products, or stiff competition.
 
-Business Implications
+## Business Implications
 Focus marketing and promotional efforts on Computers and Cameras and camcorders to capitalize on their high sales.
 Analyze the underperformance in Music, Movies and Audio Books and Audio to identify potential market gaps or opportunities for product innovation.
 Consider bundling or cross-selling strategies between high and low performers to boost overall sales.
@@ -225,14 +207,7 @@ The 'No Discount' promotion leads in total sales across all product categories, 
 The 'Computers' category significantly outperforms other categories in sales, suggesting a high demand and potential market saturation.
 The 'Adventist Promotion' and 'Winners Promotion' show notable sales in 'Cameras and camcorders' and 'TV and Video', hinting at effective targeting or seasonal demand.
 
-Business Implications
-Consider maintaining or increasing the 'No Discount' strategy given its high sales performance.
-Investigate the success factors of the 'Adventist Promotion' and 'Winners Promotion' in specific categories to replicate their effectiveness in other areas.
-Explore opportunities to enhance the 'Computers' category, possibly through bundling or upselling strategies to further drive sales.
 
-
-Insights: - The 'No Discount' promotion leads in sales, indicating a strong baseline demand without additional promotional incentives. - Computers are the highest-selling product category, suggesting a significant market demand in this segment. - The top three promotions by sales are 'No Discount,' 'Adventist Promotion,' and 'Winners Promotion,' highlighting the effectiveness of these strategies.
-Suggestion: To enhance future analyses, consider including more detailed breakdowns by time periods or regions if available. This could provide deeper insights into sales trends and promotional effectiveness.
 
 
 ### Key trends by channel, product, category, and zone across quarters
