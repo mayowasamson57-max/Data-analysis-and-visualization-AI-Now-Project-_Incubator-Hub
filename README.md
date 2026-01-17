@@ -108,7 +108,8 @@ Dataset was provided by our facilitator and it contains the following key fields
      
 > ![Screenshot AI Now Excel Project _Pivot 1](https://github.com/user-attachments/assets/08edf653-60cc-4bc2-ab76-2cc6c05b8eef)
 > 
-`![Screenshot pivot table 2](https://github.com/user-attachments/assets/eeb3365f-9cfe-4266-8967-9f0fe16102a8)
+![Screenshot pivot table 2](https://github.com/user-attachments/assets/3369cdcd-2b01-42b6-9026-766baf8e9a49)
+
 
 
 
