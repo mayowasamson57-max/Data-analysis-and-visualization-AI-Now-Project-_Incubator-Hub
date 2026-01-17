@@ -15,7 +15,7 @@
   
 This project focuses on:
 
-- Cleaning messy and inconsistent data  
+- Cleaning messy and inconsistent Electronic data  
 - Analyzing sales performance by Zones, product category,channel, and promotion  
 - Visualizing insights using **Excel**  and **Power BI**
 - Producing management-ready insights for decision-making  
