@@ -161,21 +161,27 @@ All charts were arranged on a **Dashboard Sheet**.
    Total Sales = SUM(Sales_Details[Sales])
    Total Orders = COUNT(Sales_Details[Order ID])
    Avg Order Value = DIVIDE([Total Sales],[Total Orders])
+![Screenshot AI NOW CARDS 1](https://github.com/user-attachments/assets/a7c1c4f7-9a41-478c-b135-2c685bb82238)
+
+![Screenshot AI Now Power BI Measure Table](https://github.com/user-attachments/assets/87d09226-170f-466c-8aac-1869d44828f5)
+
+   ![Screenshot AI Now power bi project data modelling](https://github.com/user-attachments/assets/10fd6279-cb94-4165-bb75-04df51a48f45)
+
    ```
 4. Built interactive visuals:
 
-   * Bar chart: Sales by Zone
-   * Pie chart: Sales by Product Category
-   * Line chart: Monthly Sales Trend
-   * Table: Top Products
-   * Slicer: Zone, Product Category, Month
+   
 
-> 📸 **Screenshot Placeholder – Power BI Model**
-> `![Power BI Data Model](screenshots/powerbi_model.png)`
+> ![Screenshot AI NOW CARDS 1](https://github.com/user-attachments/assets/1033edd0-2e88-4fd9-9f88-28400f4b1711)
+> 
+![Screenshot AI Now Power BI Measure Table](https://github.com/user-attachments/assets/03d0a2a7-089b-4edc-84a6-732350996e4a)
 
-> 📸 **Screenshot Placeholder – Power BI Dashboard**
-> `![Power BI Dashboard](screenshots/powerbi_dashboard.png)`
 
+
+> `![Power BI Dash![Screenshot AI Now analytical visuals 1](https://github.com/user-attachments/assets/89ff44ce-c80e-4a5c-aac3-2c12f6f142ce)
+board]
+
+![Screenshot AI Now analytical 2](https://github.com/user-attachments/assets/43d11b19-70a5-466d-84cd-d4f534082572)
 
 ---
 
