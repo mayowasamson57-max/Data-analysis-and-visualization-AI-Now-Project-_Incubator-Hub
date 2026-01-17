@@ -80,7 +80,6 @@ The dataset contains the following key fields:
 
 > 📸 **Screenshot Placeholder – Raw vs Cleaned Data**
 > `![Screenshot AI Now Excel  Project _ETL 1](https://github.com/user-attachments/assets/37c781d5-2c38-4a49-ba09-9d8166c47aee)
-ned Data])`
 
 
 ---
