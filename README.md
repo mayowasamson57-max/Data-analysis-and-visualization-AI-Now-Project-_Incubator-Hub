@@ -166,15 +166,6 @@ Focus marketing and promotional efforts on Computers and Cameras and camcorders 
 Analyze the underperformance in Music, Movies and Audio Books and Audio to identify potential market gaps or opportunities for product innovation.
 Consider bundling or cross-selling strategies between high and low performers to boost overall sales.
 
-### Insights on Sales Distribution by Product Category and Promotion
-
-#### Key Trends
-The 'No Discount' promotion leads in total sales across all product categories, indicating a strong customer preference for non-discounted items.
-The 'Computers' category significantly outperforms other categories in sales, suggesting a high demand and potential market saturation.
-The 'Adventist Promotion' and 'Winners Promotion' show notable sales in 'Cameras and camcorders' and 'TV and Video', hinting at effective targeting or seasonal demand.
-
-
-
 
 ### Key trends by channel, product, category, and zone across quarters
 Summary Insight: - The 'Store' channel leads in sales with 32,189,608.4 currency units, followed by the top-selling product, the 'Kekule Projector 1080p X980 Black', with sales of 452,115.0 currency units. The South East zone shows the highest sales at 15,655,458.1 currency units.
