@@ -25,8 +25,7 @@ The goal is to transform raw data into **actionable business intelligence**.
 ---
 
 ## 🗂 Dataset Description
-
-The dataset contains the following key fields:
+Dataset was provided by our facilitator and it contains the following key fields:
 
 | Column | Description |
 |--------|-------------|
@@ -46,7 +45,7 @@ The dataset contains the following key fields:
 
 ---
 
-## 🧹 Data Cleaning (Excel)
+## 🧹 Data Cleaning in Excel and Power BI
 
 ### Issues Identified
 - Sales column contained text and errors  
@@ -62,16 +61,10 @@ The dataset contains the following key fields:
    =PROPER()
    =TRIM()
    
-
-3. Fixed invalid Sales values:
-
-   excel
-   =IF(ISNUMBER([@Sales]),[@Sales],[@Price]*[@[Order Qty]])
-
    
-4. Removed duplicates:
+3. Removed duplicates:
    `Data → Remove Duplicates`
-5. Ensured correct data types:
+4. Ensured correct data types:
 
    * Dates → Date format
    * Sales → Currency
